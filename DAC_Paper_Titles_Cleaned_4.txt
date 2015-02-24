@@ -1,0 +1,100 @@
+An Efficient Feasibility Robust Optimization Method Using a Sensitivity Region Concept
+Safety Design Evaluation of Motorcycle Helmet for Oblique Impact
+Verve: A General Purpose Open Source Reinforcement Learning Toolkit
+Stereolithography Mock-Up With Internal Camera for Automatic Usability Data Acquisition and Functional Simulation
+Identifying Product Scaling Principles: A Tool for Bioinspired Design and Beyond
+Purely Declarative Feature-Based Design With Feature Type Property Maintenance
+Supporting Trade Space Exploration of Multi-Dimensional Data With Interactive Multi-Scale Nested Clustering and Aggregation
+Simulation and Optimization of the Water-Jet Cleaning Process
+Decision Making and Constraint Tradeoff Visualization for Design Under Uncertainty
+Microstructure Reconstruction for Stochastic Multiscale Material Design
+Structural Topology Optimization Under Design-Dependent Loads
+Selecting and Optimizing a Regulation Compliant Robust Vehicle Portfolio Mix: An Approach and a Case Study
+Topology Optimization of a MEMS Resonator Using Hybrid Fuzzy Techniques
+An Approach to Robust Multiattribute Concept Selection
+Design of Functionally Graded Structures for Enhanced Thermal Behavior
+A Method for Supporting Service Design Based on Multiple Domain Knowledge
+Granularity Enhancement of Extracted Preferential Probabilities From Design Team Discussion
+Design Language for Airplane Geometries Using the Unified Modeling Language
+A Simulation-Based Robust Concept Exploration Method
+Designing Products for Optimal Collaborative Performance With Application to Engineering-Based Poverty Alleviation
+Hybrid Manufacturing System Modeling and Development
+Ensemble of Meta-Models Based on Local Error Measure Using Cross-Validation
+Application of Interactive Deformation to Assembled Mesh Models for CAE Analysis
+The Performance Moment Integration Method for Reliability-Based Robust Design Optimization
+Decision Support for Strategic Redesign
+Strengthening of Bone Cement by Shape Optimization of Short Fibers
+A Multiscale Design Approach With Random Field Representation of Material Uncertainty
+Design Achievement Model for Planning Creative and Concurrent Design Process
+Quasi-Optimal Mesh Segmentation Via Region Growing/Merging
+A Study on Optimum Topology of Plate Structure Using Coordinate Transformation by Conformal Mapping
+Manufacturing Investment and Allocation in Product Line Design Decision-Making
+Design Optimization by Integration of Evolutionary Search and Cumulative Approximation
+A Knowledge-Supported System for Engineering Change Impact Analysis
+Growth Design Modeling
+Platform Strategy for Product Family Design Using Particle Swarm Optimization
+A Design Method for Developing a Universal Product Family in a Dynamic Market Environment
+Extracting Freeform Shape Information by Template Fitting
+Architectural Optimisation Using Real Options Theory and Dependency Structure Matrices
+Process Platform Formation for Product Families
+Control Design and Error Variables in Decomposition of Design Optimization Problems
+A Filter-Based Sample Average SQP for Optimization Problems With Highly Nonlinear Probabilistic Constraints
+Integrated Feature Modeller for Certain Manufacturing Processes
+An Improved Genetic Algorithm for the Optimization of Composite Structures
+Resilience-Driven System Design of Complex Engineered Systems
+Strategic Product Design Decisions for Uncertain Market Systems Using an Agent Based Approach
+A Methodology to Manage Uncertainty During System-Level Conceptual Design
+A Topology Optimization Problem in Control of Structures Using Modal Disparity
+Analysis of Product Flexibility for Future Evolution Based on Design Guidelines and a High-Definition Design Structure Matrix
+Conservative Estimation of Reliability With Limited Sampling
+Evaluation of Modular Design Concepts of Complex Mechatronic Systems
+Interactive UAS Path Planning Using Particle Swarm Optimization and Flight Mechanics
+On Design of Electro-Thermally Compliant MEMS for Strength
+Bayesian Analysis of Adaptive One-Factor-At-A-Time Experimentation
+Visualization of Multidimensional Design and Optimization Data Using Cloud Visualization
+A Study of Factor Effects in Data From Factorial Experiments
+A Graph Grammar Approach to Generate Neural Network Topologies
+Development of Game Theoretic Protocols for Multilevel Design
+Updating Predictive Models: Calibration- Bias Correction and Identifiability
+Finite Element Synthesis for Design Optimization
+Enhanced Collaborative Optimization: A Decomposition-Based Method for Multidisciplinary Design
+Reliable Space Pursuing for RBDO With Black-Box Performance Functions
+Investigating the Significance of 'One-to-Many' Mappings in Multiobjective Optimization
+Derivation of Design Guidelines for Miniature Machine Tools
+System RBDO With Correlated Variables Using Probabilistic Re-Analysis and Local Metamodels
+Return on Investment Analysis for Implementing Barriers to Reverse Engineering
+An Adaptive Sequential Linear Programming Algorithm for Optimal Design Problems With Probabilistic Constraints
+A Hybrid Biomimetic Genetic Algorithm Using a Local Fuzzy Simplex Search
+A Quantitative Approach for Designing Multiple Product Platforms for an Evolving Portfolio of Products
+Non-Gradient Based Parameter Sensitivity Estimation for Robust Design Optimization
+A New Approach to Minimisations for Shape Control During Free-Form Surface Deformation
+Subfunctions as Parts of Functions: Some Formal Problems
+Modular Product Configuration: An Automatic Tool for Eliciting Design Knowledge From Parametric CAD Models
+On the Application of Multi-Objective Parallel Asynchronous Particle Swarm Optimization to Engineering Design Problems
+Pipe Route Design Using Variable Topography Distance Transforms
+A Parametric Approach to Vehicle Seating Buck Design
+Design of Origami Sheets for Foldable Object Fabrication
+A Comprehensive Metric for Evaluating Component Commonality in a Product Family
+Development of a J2EE Web Application for STEP-Based Design Conformance Checking
+Robustness Analysis of Airfoil Performance
+On Honeycomb Parameterization for Topology Optimization of Compliant Mechanisms
+Optimal Troubleshooting for Electro-Mechanical Systems
+Evolutive Design of Car Silhouettes
+Plant-Limited Co-Design of an Energy-Efficient Counterbalanced Robotic Manipulator
+Topology Optimization of Piezoelectric Energy Harvesting Devices Subjected to Stochastic Excitation
+Toward Automatic Process Planning of a Multi-Axis Hybrid Laser Aided Manufacturing System: Skeleton-Based Offset Edge Generation
+An Approach for Revealed Consumer Preferences for Technology Products: A Case Study of Residential Solar Panels
+Design Preference Elicitation Using Efficient Global Optimization
+Optimization for Mass Variation of System Including Shock Absorber
+A Rational Design Approach to Gaussian Process Modeling for Variable Fidelity Models
+Freeform Feature Retrieval by Signal Processing
+Enhanced Convergence in Distributed Design Processes
+Q2S2: Merging Qualitative Information in Sequential DOE
+Contact Analysis Between a Moving Solid and the Boundary of Its Swept Volume
+A Scheme for Transformation of Tolerance Specifications to Generalized Deviation Space for Use in Tolerance Synthesis and Analysis
+Suggesting Joint Limitations and Physical Parameters for Motion Generating 3 DOF Planar Chains
+Optimization of Wind Farm Layout and Wind Turbine Geometry Using a Multi-Level Extended Pattern Search Algorithm That Accounts for Variation in Wind Shear Profile Shape
+Heuristic Gradient Projection for 3D Space Frame Optimization
+An Evolutionary Multi-Objective Optimization Approach to the Topology Optimization of Auxetic Structures
+Multiattribute Decision Making Using Hypothetical Equivalents
+Product Platform Design and Optimization: Status and Promise
